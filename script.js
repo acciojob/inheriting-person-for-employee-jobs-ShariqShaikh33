@@ -24,7 +24,7 @@ let alice = new Person("Alice", 25);
 alice.greet();
 
 let bob = new Employee("Bob", 30, "Manager");
-bob.jobGreet();
+
 // Do not change code below this line
 window.Person = Person;
 window.Employee = Employee;
